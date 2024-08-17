@@ -11,26 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Materials Science and Engineering, New Jersey Institute of Technology, 2022
+    * Keck Laboratory for Topological Materials
+    * PI: Dr. Camelia Prodan; Co-PI: Dr. Emil Prodan
+    * PhD Dissertation: Investigation of topological phonons in acoustic metamaterials
+      
+* B.S. in Materials Science and Engineering, North China Electric Power University, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* July 2022 - Now: Postdoctoral Research Fellow
+  * University of Michigan
+  * Duties includes: 
+  * Supervisor: Prof.Xiaoming Mao
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Aug 2019 - June 2022: Research Assistant
+  * New Jersey Institute of Technology
+  * Duties included: 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug 2017 - Aug 2019: Teaching Assistant
+  * New Jersey Institute of Technology
+  * Duties included: Instructed laboratory courses in Classical Mechanics and Electricity & Magnetism, guiding students through both numerical simulations of physical models using MATLAB and hands-on experiments.
   
 Skills
 ======
