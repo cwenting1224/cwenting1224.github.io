@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here]()
+
 Education
 ======
 * Ph.D in Materials Science and Engineering, New Jersey Institute of Technology, 2022
