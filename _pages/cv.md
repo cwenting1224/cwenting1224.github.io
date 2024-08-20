@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](https://github.com/cwenting1224/cwenting1224.github.io/blob/master/files/CV.pdf)
+[Download CV here](https://cwenting1224.github.io/files/CV.pdf)
 
 Education
 ======
